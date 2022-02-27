@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DomingosDeveloper
+- 👀 I’m interested in ... Phyton, SQL, Java, C#, C, data security and clouding
+- 🌱 I’m currently learning ... computer science 
+- 💞️ I’m looking to collaborate on ... whatever i could
+- - 📫 How to reach me ... right from this social media
