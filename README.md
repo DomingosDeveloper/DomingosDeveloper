@@ -2,4 +2,4 @@
 - 👀 I’m interested in ... Pyhton, SQL, Java, C#, C, data security and clouding
 - 🌱 I’m currently learning ... computer science 
 - 💞️ I’m looking to collaborate on ... whatever i could
-- - 📫 How to reach me ... right from this social media
+- 📫 How to reach me ... right from this social media
